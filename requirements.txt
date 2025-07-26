@@ -1,6 +1,10 @@
 requests
-beautifulsoup4
-ebooklib
 Pillow
 tqdm
+ebooklib
+beautifulsoup4
 selenium
+langchain-community
+duckduckgo-search
+python-dotenv
+ddgs
